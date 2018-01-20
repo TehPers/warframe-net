@@ -46,6 +46,9 @@ namespace WarframeNET
         /// </summary>
         public string Faction { get; set; }
 
+        /// <summary>
+        /// Time until the sortie resets.
+        /// </summary>
         [JsonProperty("eta")]
         public string ETA { get; set; }
 

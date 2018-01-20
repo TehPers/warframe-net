@@ -4,7 +4,7 @@ namespace WarframeNET
 {
     /// <summary>
     /// Rank information of a player in NexusProfile.
-    /// <seealso cref="NexusProfile"/>
+    /// <seealso cref="WarframeNET.NexusStats.NexusProfile"/>
     /// </summary>
     public class NRank
     {
